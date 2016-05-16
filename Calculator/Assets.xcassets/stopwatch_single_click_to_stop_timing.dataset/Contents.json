@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "data" : [
+    {
+      "idiom" : "universal",
+      "filename" : "stopwatch_single_click_to_stop_timing.mp3"
+    }
+  ]
+}
